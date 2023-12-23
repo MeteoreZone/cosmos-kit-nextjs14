@@ -1,7 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and adapted to work with [Cosmos Kit] (https://cosmoskit.com/)
 
-![Alt text](image.png)
+Live demo from latest build: https://cosmos-kit.vercel.app/
 
+![Alt text](image.png)
 
 ## This project was created with the following options:
 
