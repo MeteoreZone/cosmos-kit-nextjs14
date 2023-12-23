@@ -1,6 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and adapter to work with [Cosmos Kit] (https://cosmoskit.com/)
 
-## Thsi project was created with:
+## This project was created with:
 
 ```bash
 npx create-next-app@latest
@@ -12,6 +12,15 @@ npx create-next-app@latest
 ✔ Would you like to use App Router? (recommended) … No / Yes
 ✔ Would you like to customize the default import alias (@/*)? … No / Yes
 ```
+
+## 📚 Built With
+
+This boilerplate was built using the following technologies:
+
+- [Next.js](https://nextjs.org/): A React framework for production - it makes building static and dynamic React apps a breeze.
+- [Cosmos-kit](https://cosmoskit.com/): An open-source wallet connector for the Cosmos ⚛️
+applications.
+- More examples and integrations coming soon!
 
 ## Getting Started
 
@@ -33,7 +42,18 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Learn More about Cosmos Kit
+To learn more about Next.js, take a look at the following resources: 
+
+- https://cosmoskit.com/
+- https://github.com/cosmology-tech/create-cosmos-app
+- https://github.com/cosmology-tech/cosmos-kit
+- https://github.com/cosmology-tech/cosmology
+- https://github.com/CosmWasm/ts-codegen
+- https://github.com/cosmology-tech/chain-registry
+
+
+## Learn More about Next.js
 
 To learn more about Next.js, take a look at the following resources:
 
