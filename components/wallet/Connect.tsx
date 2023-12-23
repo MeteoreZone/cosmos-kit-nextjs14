@@ -1,9 +1,6 @@
 "use client";
-import { useState, useEffect,useMemo, ReactNode } from "react";
+import { useState, useEffect, useMemo, ReactNode } from "react";
 import { useChain, useWallet } from "@cosmos-kit/react";
-
-// import { chainName } from "@/config/defaults"
-
 const chainName = "osmosistestnet";
 
 export interface ConnectProps {
@@ -11,13 +8,10 @@ export interface ConnectProps {
 }
 
 export const Connect = (props: ConnectProps) => {
-
-  const { username, address, connect, disconnect, wallet, openView } = useChain(
-    chainName
-  );
+  const { username, address, connect, disconnect, wallet, openView } =
+    useChain(chainName);
   const { status: globalStatus, mainWallet } = useWallet(); // status here is the global wallet status for all activated chains (chain is activated when call useChain)
 
-  
   useEffect(() => {
     const initConnection = async () => {
       await mainWallet?.connect();
@@ -75,13 +69,13 @@ export const Connect = (props: ConnectProps) => {
     globalStatus,
     openView,
     username,
-    wallet?.prettyName
+    wallet?.prettyName,
   ]);
 
   return (
     <div>
-        {connectionButton}
-         {props.children}
+      {connectionButton}
+      {props.children}
     </div>
   );
 };
