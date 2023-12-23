@@ -1,6 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and adapter to work with [Cosmos Kit] (https://cosmoskit.com/)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and adapted to work with [Cosmos Kit] (https://cosmoskit.com/)
 
-## This project was created with:
+![Alt text](image.png)
+
+
+## This project was created with the following options:
 
 ```bash
 npx create-next-app@latest

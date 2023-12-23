@@ -18,9 +18,9 @@ export const CosmosKitProvider = ({ children }: { children: React.ReactNode }) =
     <ChainProvider
     chains={chains}
     assetLists={[...assets]}
-      wallets={[...keplrWallets]}
+      wallets={[...keplrWallets, ...leapWallets]}
       throwErrors={false}
-      subscribeConnectEvents={false}
+      subscribeConnectEvents={true}
       defaultNameService={"stargaze"}
       walletConnectOptions={{
         signClient: {
