@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@cosmjs/cosmwasm-stargate": "^0.32.1",
+    "@cosmos-kit/web3auth": "^2.4.14",
     "@cosmos-kit/core": "^2.7.10",
     "@cosmos-kit/keplr": "^2.5.0",
     "@cosmos-kit/leap": "^2.5.0",

@@ -26,6 +26,11 @@ This boilerplate was built using the following technologies:
 applications.
 - More examples and integrations coming soon!
 
+## Enabled Features
+- Keplr Login
+- Leap Wallet Login
+- Web3auth Login (Login with Google)
+
 ## Getting Started
 
 First, run the development server:
