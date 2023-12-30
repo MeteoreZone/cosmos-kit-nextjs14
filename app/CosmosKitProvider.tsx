@@ -44,7 +44,7 @@ const web3AuthWallets = useMemo(
       ],
       client: {
         clientId: "BDLLD_RgZnTlumaFNheXx1G6ZiZZz6XvCawD-T_t9Nnn1agz_V_gZT-hq9n1kht9hho32a7yu3pwL44pzJnSLE8", //change this to your client-id
-        web3AuthNetwork: "testnet",
+        web3AuthNetwork: "testnet", // for production, make sure to use cyan legacy instead of saphire_mainnet until the cosmos-kit/web3auth is updated to a more recent version
       },
       promptSign: async (_, signData) => {
         return new Promise((resolve) => {
