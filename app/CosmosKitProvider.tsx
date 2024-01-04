@@ -50,7 +50,7 @@ const web3AuthWallets = useMemo(
         return new Promise((resolve) => {
           setWeb3AuthPrompt({
             signData,
-            resolve: (approved) => {
+            resolve: (approved: any) => {
 
               setWeb3AuthPrompt(undefined);
               resolve(approved);
@@ -69,7 +69,7 @@ const web3AuthWallets = useMemo(
     <ChainProvider
     chains={chains}
     assetLists={[...assets]}
-      wallets={[...keplrWallets]}
+      wallets={[...keplrWallets, ...web3AuthWallets, ...leapWallets]}
       throwErrors={false}
       subscribeConnectEvents={true}
       defaultNameService={"stargaze"}
@@ -94,11 +94,29 @@ const web3AuthWallets = useMemo(
               return {
                 gasPrice: new GasPrice(Decimal.zero(1), "uosmo"),
               };
+              case "osmosistestnet":
+                return {
+                  gasPrice: new GasPrice(Decimal.zero(1), "uosmo"),
+                };
             default:
               return void 0;
           }
+        },
+        signingCosmwasm: (chain: Chain) => {
+          switch (chain.chain_name) {
+          case "osmosistestnet":
+            return {
+              broadcastTimeoutMs: 30000, // example timeout for broadcasting transactions
+              broadcastPollIntervalMs: 1000, // example poll interval for transaction results
+              gasPrice: GasPrice.fromString('0.0500uosmo'), // example gas price
+            }
+          default:
+            return void 0;
+          };
+          
+          }
         }
-      }}
+      }
       logLevel={"DEBUG"}
       endpointOptions={{
         isLazy: true,
