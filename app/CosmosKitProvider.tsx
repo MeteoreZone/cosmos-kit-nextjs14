@@ -69,7 +69,7 @@ const web3AuthWallets = useMemo(
     <ChainProvider
     chains={chains}
     assetLists={[...assets]}
-      wallets={[...keplrWallets, ...web3AuthWallets, ...leapWallets]}
+      wallets={[...keplrWallets]} //add other wallets with  ...web3AuthWallets, ...leapWallets
       throwErrors={false}
       subscribeConnectEvents={true}
       defaultNameService={"stargaze"}
@@ -97,6 +97,18 @@ const web3AuthWallets = useMemo(
             default:
               return void 0;
           }
+        },signingCosmwasm: (chain) => {
+          switch (chain.chain_name) {
+            case 'osmosis':
+            case 'osmosistestnet':
+              return {
+                gasPrice: GasPrice.fromString('0.0500uosmo'),
+              };
+            case 'cosmwasmtestnet':
+              return {
+                gasPrice: GasPrice.fromString('0.0025umlga'),
+              };
+          }
         },
       }}
       logLevel={"DEBUG"}
@@ -104,17 +116,16 @@ const web3AuthWallets = useMemo(
         isLazy: true,
         endpoints: {
           cosmoshub: {
-            rpc: [
-              {
-                url: "https://rpc.cosmos.directory/cosmoshub",
-                headers: {},
-              },
-            ],
+            rpc: [ "https://rpc.cosmos.directory/cosmoshub"],
+          },
+          osmosistestnet: {
+            rpc: ["https://rpc.testnet.osmosis.zone"],
           },
         },
       }}
       disableIframe={false}
     >
+
     {children}
     </ChainProvider>
   );
