@@ -34,7 +34,7 @@ export const Connect = (props: ConnectProps) => {
     if (globalStatus === "Connecting") {
       return (
         <button
-          className="bg-red-500 hover:bg-red-600 text-white font-bold py-2 px-4 rounded-md "
+          className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md mr-2 "
           onClick={() => connect()}
         >
           {`Connecting...`}
@@ -43,27 +43,27 @@ export const Connect = (props: ConnectProps) => {
     }
     if (globalStatus === "Connected") {
       return (
-        <div>
+        <>
           <button
             onClick={() => openView()}
-            className="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded-md mr-2"
+            className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md mr-2"
           >
             {username}
           </button>
 
           <button
-            className="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded-md"
+            className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md mr-2"
             onClick={handleDisconnect}
           >
             Disconnect
           </button>
-        </div>
+        </>
       );
     }
 
     return (
       <button
-        className="bg-purple-500 hover:bg-purple-600 text-white font-bold py-2 px-4 rounded-md "
+        className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md mr-2 "
         onClick={() => connect()}
       >
         Connect
@@ -79,9 +79,9 @@ export const Connect = (props: ConnectProps) => {
   ]);
 
   return (
-    <div>
+    <>
         {connectionButton}
          {props.children}
-    </div>
+    </>
   );
 };
