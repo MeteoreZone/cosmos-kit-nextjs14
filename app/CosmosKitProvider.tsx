@@ -69,7 +69,7 @@ const web3AuthWallets = useMemo(
     <ChainProvider
     chains={chains}
     assetLists={[...assets]}
-      wallets={[...keplrWallets]} //add other wallets with  ...web3AuthWallets, ...leapWallets
+      wallets={[...keplrWallets]}
       throwErrors={false}
       subscribeConnectEvents={true}
       defaultNameService={"stargaze"}
@@ -97,19 +97,7 @@ const web3AuthWallets = useMemo(
             default:
               return void 0;
           }
-        },signingCosmwasm: (chain) => {
-          switch (chain.chain_name) {
-            case 'osmosis':
-            case 'osmosistestnet':
-              return {
-                gasPrice: GasPrice.fromString('0.0500uosmo'),
-              };
-            case 'cosmwasmtestnet':
-              return {
-                gasPrice: GasPrice.fromString('0.0025umlga'),
-              };
-          }
-        },
+        }
       }}
       logLevel={"DEBUG"}
       endpointOptions={{
