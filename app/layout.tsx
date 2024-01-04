@@ -55,7 +55,7 @@ const { theme, setTheme } = useTheme();
             <Connect />
             <button
                 onClick={toggleTheme}
-                className="p-2 rounded-md text-gray-700  dark:text-gray-200 hover:bg-purple-200 dark:hover:bg-purple-700"
+                className="ml-4 px-4 rounded-md text-morado-100  bg-morado-900 hover:bg-morado-700 dark:text-morado-200  dark:hover:bg-morado-600"
               >
                 {theme === 'dark' ? <SunIcon /> : <MoonIcon />}
               </button>

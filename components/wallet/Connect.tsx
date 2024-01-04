@@ -46,7 +46,7 @@ export const Connect = (props: ConnectProps) => {
         <>
           <button
             onClick={() => openView()}
-            className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md mr-2"
+            className="bg-morado-900 hover:bg-morado-600 text-sm text-white font-bold p-3 rounded-md "
           >
             {username}
           </button>
