@@ -1,6 +1,8 @@
 'use client';
 import { Inter } from 'next/font/google'
+import 'react-toastify/dist/ReactToastify.css';
 import './globals.css'
+import { ToastContainer } from "react-toastify";
 
 const inter = Inter({ subsets: ['latin'] })
 import "@interchain-ui/react/styles";
@@ -10,6 +12,9 @@ import {
 } from "@interchain-ui/react";
 import { MoonIcon, SunIcon } from '@radix-ui/react-icons';
 import { useEffect } from 'react';
+import { Connect } from "@/components/wallet/Connect";
+import Link from 'next/link';
+
 
 export default function RootLayout({
   children,
@@ -29,21 +34,48 @@ const { theme, setTheme } = useTheme();
     setTheme(newTheme);
     document.documentElement.classList.toggle('dark', newTheme === 'dark');
   };
+  
 
   return (
     <html lang="en">
-    <body className={` ${inter.className}  text-black dark:text-white  bg-gradient-to-b from-gray-100 to-gray-200 dark:from-[#4B3765] dark:to-[#231C2D]`}>
+    <body className={` ${inter.className}  text-black dark:text-white bg-gradient-to-b from-morado-200 to-morado-400 dark:from-morado-800 dark:to-morado-950`}>
+
       <CosmosKitProvider>
-        <div className="flex justify-end items-center p-4 absolute top-4 right-4 ">
-          <button
-            onClick={toggleTheme}
-            className="p-2 rounded-md text-gray-700  dark:text-gray-200 hover:bg-purple-200 dark:hover:bg-purple-700"
-          >
-            {theme === 'dark' ? <SunIcon /> : <MoonIcon />}
-          </button>
-        </div>
+      <div className='container mx-auto'>
+          <nav className=" p-4">
+          <div className="container  flex justify-between items-center">
+            <div className="flex items-center">
+              <Link href="/" className='ml-6 mr-6'>
+                Home
+              </Link>
+              <Link href="/contracts" className='p-2 rounded'> Contracts</Link> 
+
+            </div>
+            <ul className="flex space-x-2">
+            <Connect />
+            <button
+                onClick={toggleTheme}
+                className="ml-4 px-4 rounded-md text-morado-100  bg-morado-900 hover:bg-morado-700 dark:text-morado-200  dark:hover:bg-morado-600"
+              >
+                {theme === 'dark' ? <SunIcon /> : <MoonIcon />}
+              </button>
+            </ul>
+          </div>
+        </nav>
+     
+      
         {children}
+        </div>
       </CosmosKitProvider>
+      <ToastContainer
+      pauseOnFocusLoss={true}
+        bodyClassName={() => "text-sm font-white font-med block p-3 "}
+        position="top-right"
+        autoClose={3000}
+        className="w-full md:w-1/3 lg:w-1/3 xl:w-1/3 xxl:w-1/4 "
+        toastClassName="bg-morado-300 dark:bg-morado-950 dark:bg-opacity-80 dark:text-white backdrop-blur-sm m-4"
+
+      />
     </body>
   </html>
   )
