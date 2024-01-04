@@ -353,11 +353,11 @@ export interface Cw721Interface extends Cw721ReadOnlyInterface {
   }: {
     tokenId: string;
   }, fee?: number | StdFee | "auto", memo?: string, _funds?: Coin[]) => Promise<ExecuteResult>;
-  extension: ({
+ extension: ({
     msg
   }: {
     msg: Empty;
-  }, fee?: number | StdFee | "auto", memo?: string, _funds?: Coin[]) => Promise<ExecuteResult>;
+  }, fee?: number | StdFee | "auto", memo?: string, _funds?: Coin[]) => Promise<null>;
   setWithdrawAddress: ({
     address
   }: {
@@ -514,16 +514,17 @@ export class Cw721Client extends Cw721QueryClient implements Cw721Interface {
       }
     }, fee, memo, _funds);
   };
-  extension = async ({
+extension = async ({
     msg
   }: {
     msg: Empty;
-  }, fee: number | StdFee | "auto" = "auto", memo?: string, _funds?: Coin[]): Promise<ExecuteResult> => {
-    return await this.client.execute(this.sender, this.contractAddress, {
+  }, fee: number | StdFee | "auto" = "auto", memo?: string, _funds?: Coin[]): Promise<null> => {
+    await this.client.execute(this.sender, this.contractAddress, {
       extension: {
         msg
       }
     }, fee, memo, _funds);
+    return null;
   };
   setWithdrawAddress = async ({
     address
