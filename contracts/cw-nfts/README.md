@@ -1,3 +1,6 @@
+# Demo Code Only
+This is just a copy for demo purposes of this front-end boilerplate. Please make sur to download the latest version of this contract at https://github.com/CosmWasm/cw-nfts
+
 # CosmWasm NFTS
 
 This repo is the official repository to work on all NFT standard and examples
