@@ -29,7 +29,8 @@ applications.
 ## Enabled Features
 - Keplr Login
 - Leap Wallet Login
-- Web3auth Login (Login with Google)
+- Web3auth Login (Login with Google) (Coming soon)
+- React Toastify examples and integrated
 
 ## Getting Started
 
@@ -76,3 +77,74 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+## Example contract
+
+We added a copy of cw-nfts contracts to the contracts directory which we are using to build a binary file, schema and typescript types. In this example we will use `contracts/cw-nfts/contracts/cw721-base` as an example.
+
+## Install cargo make
+```
+cargo install cargo-make
+```
+
+### Building the Contracts
+
+To compile the contracts to WebAssembly, run:
+
+```sh
+cd contracts/cw-nfts/
+cargo make build
+```
+This command will generate the .wasm binaries for both contracts within the artifacts directory.
+
+## Build optimized versions
+
+```
+docker run --rm -v "$(pwd)":/code \
+  --mount type=volume,source="$(basename "$(pwd)")_cache",target=/target \
+  --mount type=volume,source=registry_cache,target=/usr/local/cargo/registry \
+  cosmwasm/optimizer:0.15.0
+```
+
+## Generate Javascript Schema
+
+```
+cargo make schema
+```
+
+## Upload binary to Celatone
+Go to https://celatone.osmosis.zone/osmo-test-5/upload 
+Upload the binary file from `/Users/web/watch/cosmos-kit-nextjs14/contracts/cw-nfts/contracts/cw721-base/schema/cw721-base.json`
+
+## Upload schema to Celatone
+Once the binary is uploaded, you will need to upload the schema. The schema can be found in `contracts/cw-nfts/artifacts/schema.wasm.json`
+
+## Code ID
+The code id can be found in the on Celatone after uploading the binary file or by going to https://celatone.osmosis.zone/osmo-test-5/stored-codes. You might also use 5999 for testing purposes which was uploaded already.
+
+## The code ID is what can be used to instantiate the contract as seen on line 23 of app/contracts/page.tsx
+```
+
+## Generating Typescript types
+ In order to generate typescript types for the contracts, you will need to install ts-codegen. This can be done by running the following command:
+
+### Install ts-codegen
+ ```
+ npm install -g ts-codegen
+ ```
+
+ ### Generate typescript types
+ The following command will generate the typescript types for the contracts. The generated types will be placed in the `ts` directory.
+ ```
+ cd contracts/cw-nfts/contracts/cw721-base
+ cosmwasm-ts-codegen generate \
+          --plugin client \
+          --schema ./schema \
+          --out ../../../contract-client \
+          --name cw721 \
+          --no-bundle
+```
+
+This will generate a client which we will use with our application. They are stored in contract-client directory.
