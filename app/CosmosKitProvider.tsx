@@ -69,7 +69,7 @@ const web3AuthWallets = useMemo(
     <ChainProvider
     chains={chains}
     assetLists={[...assets]}
-      wallets={[...keplrWallets, ...web3AuthWallets]}
+      wallets={[...keplrWallets, ...web3AuthWallets, ...leapWallets]}
       throwErrors={false}
       subscribeConnectEvents={true}
       defaultNameService={"stargaze"}

@@ -9,12 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@cosmjs/stargate": "^0.32.2",
     "@cosmjs/cosmwasm-stargate": "^0.32.2",
+    "@cosmjs/stargate": "^0.32.2",
     "@cosmos-kit/core": "^2.7.14",
     "@cosmos-kit/keplr": "^2.5.4",
     "@cosmos-kit/leap": "^2.5.0",
     "@cosmos-kit/react": "^2.9.20",
+    "@cosmos-kit/web3auth": "^2.4.14",
     "@interchain-ui/react": "^1.18.3",
     "@radix-ui/react-icons": "^1.3.0",
     "chain-registry": "^1.23.0",
