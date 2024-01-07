@@ -12,9 +12,9 @@ const Validator: React.FC = () => {
   return (
       <div className='card p-8 m-4 rounded-xl min-h-8'    >
         
-        <h2 className="text-2xl font-bold mb-4">Validator</h2>
+        <h2 className="text-2xl font-bold mb-4">Chains</h2>
         <p className='py-8'>
-          Our main focus is non-custodial staking and validation services for Cosmos Ecosystem projects.
+          Example page showing some chains from the <a href="https://github.com/cosmos/chain-registry" className='font-medium'>cosmos/chain-registry</a> via <a href="https://www.npmjs.com/package/chain-registry" className='font-medium'>Chain-registry Package from Cosmology</a>
         </p>
 
         <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>

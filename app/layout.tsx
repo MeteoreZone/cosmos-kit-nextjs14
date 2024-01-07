@@ -38,7 +38,7 @@ const { theme, setTheme } = useTheme();
 
   return (
     <html lang="en">
-    <body className={` ${inter.className}  text-black dark:text-white bg-gradient-to-b from-morado-200 to-morado-400 dark:from-morado-800 dark:to-morado-950`}>
+    <body className={` ${inter.className}  min-h-screen text-black dark:text-white bg-gradient-to-b from-morado-200 to-morado-400 dark:from-morado-800 dark:to-morado-950`}>
 
       <CosmosKitProvider>
       <div className='container mx-auto'>
