@@ -1,13 +1,9 @@
 import React from 'react';
 import { chains } from 'chain-registry';
-import Link from 'next/link';
 
 const Validator: React.FC = () => {
   const searchChains = ['cosmoshub','osmosis', 'stargaze', 'akash','dydx','agoric','juno','regen','sentinel','bitsong','likecoin','ixo','emoney','cyber'];
   const filteredChains = chains.filter((chain) => searchChains.includes(chain.chain_name));
-
-  console.log("filteredChains");
-  console.log(filteredChains);
 
   return (
       <div className='card p-8 m-4 rounded-xl min-h-8'    >
@@ -16,7 +12,6 @@ const Validator: React.FC = () => {
         <p className='py-8'>
           Example page showing some chains from the <a href="https://github.com/cosmos/chain-registry" className='font-medium'>cosmos/chain-registry</a> via <a href="https://www.npmjs.com/package/chain-registry" className='font-medium'>Chain-registry Package from Cosmology</a>
         </p>
-
         <div className='grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'>
           {filteredChains.map((chain) => (
              <div key={chain.chain_name} className='flex flex-col items-center justify-center card bg-morado-400  dark:bg-morado-800 rounded-xl p-6'>
@@ -29,7 +24,6 @@ const Validator: React.FC = () => {
                 />
               </div>
               <a href={chain.website}>
-              
               <button className='bg-morado-600 hover:bg-morado-500 hover:shadow-xl text-white py-2 px-4 mt-4 rounded-lg shadow-md'>
                 Official Site
               </button>
