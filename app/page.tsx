@@ -10,7 +10,7 @@ export default function Home() {
 const { theme, setTheme } = useTheme();
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-4 sm:p-18">
+    <main className="flex  flex-col items-center justify-between p-4 sm:p-18">
 
       <div  className="flex  flex-col items-center justify-between p-8 sm:p-18">
       <div className="min-h-[300px] mt-4 mb-6 sm:mt-16 relative flex place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial before:from-morado-100 before:to-transparent before:blur-2xl before:content-[''] after:absolute after:-z-20 after:h-[180px] after:w-[240px] after:translate-x-1/3 after:bg-gradient-conic after:from-morado-200 after:via-morado-100 after:blur-2xl after:content-[''] before:dark:bg-gradient-to-br before:dark:from-transparent before:dark:to-morado-200 before:dark:opacity-10 after:dark:from-morado-600 after:dark:via-morado-700 after:dark:opacity-40 before:lg:h-[160px] z-[-1]">
@@ -83,3 +83,4 @@ const { theme, setTheme } = useTheme();
     </main>
   )
 }
+

@@ -80,7 +80,6 @@ const Contracts: React.FC = () => {
   };
 
   return (
-    <div className="h-screen">
       <div className='card   p-8 m-4 rounded-xl'>
         <h2 className="text-2xl font-bold mb-4">Contract Instantiator</h2>
         <p className='py-8'>
@@ -150,7 +149,6 @@ const Contracts: React.FC = () => {
       </div>
 
 
-    </div>
   );
 };
 
