@@ -48,7 +48,7 @@ const { theme, setTheme } = useTheme();
               <Link href="/" className='ml-6 mr-6'>
                 Home
               </Link>
-              <Link href="/" className='ml-6 mr-6'>
+              <Link href="/chains" className='ml-6 mr-6'>
                 Chains
               </Link>
               <Link href="/contracts" className='p-2 rounded'> Contracts</Link> 
