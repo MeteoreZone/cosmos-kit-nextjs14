@@ -38,7 +38,7 @@ const { theme, setTheme } = useTheme();
 
   return (
     <html lang="en">
-    <body className={` ${inter.className}  text-black dark:text-white bg-gradient-to-b from-morado-200 to-morado-400 dark:from-morado-800 dark:to-morado-950`}>
+    <body className={` ${inter.className}  min-h-screen text-black dark:text-white bg-gradient-to-b from-morado-200 to-morado-400 dark:from-morado-800 dark:to-morado-950`}>
 
       <CosmosKitProvider>
       <div className='container mx-auto'>
@@ -47,6 +47,9 @@ const { theme, setTheme } = useTheme();
             <div className="flex items-center">
               <Link href="/" className='ml-6 mr-6'>
                 Home
+              </Link>
+              <Link href="/chains" className='ml-6 mr-6'>
+                Chains
               </Link>
               <Link href="/contracts" className='p-2 rounded'> Contracts</Link> 
 
