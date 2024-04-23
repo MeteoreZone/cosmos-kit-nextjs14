@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features shirtless hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1305",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "shirtless"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "scissors"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

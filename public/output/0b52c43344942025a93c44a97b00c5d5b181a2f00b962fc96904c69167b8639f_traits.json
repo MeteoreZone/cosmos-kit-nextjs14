@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features peruvian outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2125",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "peruvian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "gold coin bag"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features brazilian soccer player hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8190",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "whale"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

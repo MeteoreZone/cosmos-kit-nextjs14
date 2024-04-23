@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features t-shirt hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo589",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "tomato"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

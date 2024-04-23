@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is serious, features artist hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1041",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "artist"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "placard"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

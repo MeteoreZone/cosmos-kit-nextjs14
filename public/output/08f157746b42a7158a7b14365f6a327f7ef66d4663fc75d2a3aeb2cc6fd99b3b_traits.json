@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features office worker hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5767",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "office worker"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "choclo"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

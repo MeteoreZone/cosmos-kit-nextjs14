@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features Don Quixote outfit hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo592",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "beach towel"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

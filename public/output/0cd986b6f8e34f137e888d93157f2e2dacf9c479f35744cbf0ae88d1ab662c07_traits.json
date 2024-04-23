@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features cook hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4176",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "cook"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocktail"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

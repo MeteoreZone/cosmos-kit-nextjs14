@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features carnival outfit hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7582",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "carnival outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chili"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

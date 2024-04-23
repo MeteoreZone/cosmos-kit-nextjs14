@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features mexican outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7906",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mexican outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocktail"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

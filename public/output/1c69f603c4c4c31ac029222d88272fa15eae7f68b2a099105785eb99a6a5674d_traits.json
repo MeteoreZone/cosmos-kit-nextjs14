@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features cook hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1607",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "cook"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "carrot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

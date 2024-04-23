@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is serious, features shirtless hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8530",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "shirtless"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "crocodile"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

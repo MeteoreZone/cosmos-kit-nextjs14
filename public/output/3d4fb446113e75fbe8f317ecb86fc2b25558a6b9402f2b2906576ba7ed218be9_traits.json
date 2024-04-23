@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features tango outfit hair and is holding a narrow eyes",
+    "external_url": "https://ministryof.fun/?ref=primo305",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "tango outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "ladybug"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "narrow eyes"
+        }
+    ]
+}

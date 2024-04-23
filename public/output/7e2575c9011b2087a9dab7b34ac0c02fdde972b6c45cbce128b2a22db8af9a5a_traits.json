@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features Dia de los Muertos outfit farmer hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4625",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dia de los Muertos outfit farmer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "microphone"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

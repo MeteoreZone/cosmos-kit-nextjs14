@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features t-shirt hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5047",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "baseball"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

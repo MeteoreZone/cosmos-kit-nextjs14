@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features hoodie hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2689",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "hoodie"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "hedgehog"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

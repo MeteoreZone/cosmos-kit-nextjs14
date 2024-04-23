@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is surprised, features Bullfighter outfit hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8164",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Bullfighter outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chocolate bar"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

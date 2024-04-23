@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is drunk, features Zorro outfit hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3118",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Zorro outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "yoyo"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

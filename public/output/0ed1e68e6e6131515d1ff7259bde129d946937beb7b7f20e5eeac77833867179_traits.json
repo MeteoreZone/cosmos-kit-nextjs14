@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features Flamenco Dancer outfit hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo717",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Flamenco Dancer outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "pearl"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features soccer player outfit hair and is holding a round eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4440",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer player outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "candle"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "round eyes"
+        }
+    ]
+}

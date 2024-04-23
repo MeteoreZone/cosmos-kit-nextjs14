@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is drunk, features office worker hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4063",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "office worker"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Salsa dish"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

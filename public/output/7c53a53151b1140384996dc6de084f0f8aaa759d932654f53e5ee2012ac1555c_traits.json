@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features cook hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo59",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "cook"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Pan flute"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features argentinian soccer player hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3486",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "argentinian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Sombrero"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

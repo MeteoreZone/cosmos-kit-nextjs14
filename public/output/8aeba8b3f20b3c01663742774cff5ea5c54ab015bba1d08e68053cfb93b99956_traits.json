@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features Flamenco Dancer outfit hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo180",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Flamenco Dancer outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "iguana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features artist hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo499",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "artist"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chili"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

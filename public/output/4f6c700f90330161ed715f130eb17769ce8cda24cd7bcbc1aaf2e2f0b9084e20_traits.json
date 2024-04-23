@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is serious, features soccer referee hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9466",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer referee"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "slice"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is confident, features argentinian soccer player hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo100",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "argentinian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Tamale"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

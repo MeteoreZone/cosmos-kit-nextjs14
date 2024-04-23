@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features construction worker outfit hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9517",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "construction worker outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "tarot cards"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

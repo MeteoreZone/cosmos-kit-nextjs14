@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features peruvian outfit hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7863",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "peruvian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chancleta"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

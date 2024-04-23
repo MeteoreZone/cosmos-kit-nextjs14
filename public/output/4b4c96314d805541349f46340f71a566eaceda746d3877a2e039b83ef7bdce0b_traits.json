@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features shirtless hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo15",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "shirtless"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "a toy car"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

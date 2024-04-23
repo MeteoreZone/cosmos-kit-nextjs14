@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features brazilian outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9491",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "grill"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

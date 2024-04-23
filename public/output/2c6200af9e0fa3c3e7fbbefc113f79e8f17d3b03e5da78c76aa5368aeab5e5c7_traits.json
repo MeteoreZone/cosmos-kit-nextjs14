@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features construction worker outfit hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo655",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "construction worker outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "guitar"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

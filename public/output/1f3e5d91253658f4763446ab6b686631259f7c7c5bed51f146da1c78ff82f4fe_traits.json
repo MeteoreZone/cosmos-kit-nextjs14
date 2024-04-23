@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features artist hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3856",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "artist"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "rainbow"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

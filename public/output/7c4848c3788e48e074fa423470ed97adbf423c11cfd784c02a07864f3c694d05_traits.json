@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features cook hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9451",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "cook"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "crab"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features hoodie hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8753",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "hoodie"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocktail"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

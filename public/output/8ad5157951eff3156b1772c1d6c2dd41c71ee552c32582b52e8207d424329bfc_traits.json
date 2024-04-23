@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features argentinian soccer player hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo583",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "argentinian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "pigtails"
+        },
+        {
+            "trait_type": "holding",
+            "value": "scissors"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

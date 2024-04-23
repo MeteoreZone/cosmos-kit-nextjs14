@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features poncho hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo6223",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "poncho"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "yoyo"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

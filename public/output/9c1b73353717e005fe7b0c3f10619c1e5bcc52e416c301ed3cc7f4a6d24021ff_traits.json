@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is drunk, features poncho hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "poncho"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Shiba Inu pet"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

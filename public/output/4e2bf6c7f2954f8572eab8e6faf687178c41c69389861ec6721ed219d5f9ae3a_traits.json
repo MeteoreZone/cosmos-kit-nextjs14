@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features huasa clothing hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4992",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huasa clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Llama figurine"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

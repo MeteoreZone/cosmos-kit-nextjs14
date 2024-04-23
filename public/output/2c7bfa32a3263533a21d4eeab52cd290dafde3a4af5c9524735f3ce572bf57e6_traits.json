@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features Don Quixote outfit hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1315",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Poncho"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

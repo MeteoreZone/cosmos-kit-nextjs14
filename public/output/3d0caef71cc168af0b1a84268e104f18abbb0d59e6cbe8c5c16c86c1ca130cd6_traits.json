@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features office worker hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7369",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "office worker"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "palmerita"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

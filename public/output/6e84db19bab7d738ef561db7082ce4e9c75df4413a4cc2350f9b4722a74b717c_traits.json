@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features soccer referee hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3234",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer referee"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "inca gold"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

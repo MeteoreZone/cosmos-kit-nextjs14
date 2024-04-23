@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features Don Quixote outfit hair and is holding a round eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7628",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Chapulín (edible grasshopper)"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "round eyes"
+        }
+    ]
+}

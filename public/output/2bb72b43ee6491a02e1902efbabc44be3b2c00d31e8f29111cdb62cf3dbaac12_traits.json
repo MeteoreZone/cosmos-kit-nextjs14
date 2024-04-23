@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features office worker hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9205",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "office worker"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "pet pelican"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

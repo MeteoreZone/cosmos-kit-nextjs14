@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is smiling, features huasa clothing hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5931",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huasa clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Pineapple"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

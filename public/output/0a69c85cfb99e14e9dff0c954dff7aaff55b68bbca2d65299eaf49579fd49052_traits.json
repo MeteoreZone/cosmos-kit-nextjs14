@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features Bullfighter outfit hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8119",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Bullfighter outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "placard"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features juggler outfit hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4102",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "juggler outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "pigtails"
+        },
+        {
+            "trait_type": "holding",
+            "value": "maracas"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

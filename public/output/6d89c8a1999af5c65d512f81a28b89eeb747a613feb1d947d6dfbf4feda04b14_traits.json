@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is surprised, features Dia de los Muertos outfit farmer hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1552",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dia de los Muertos outfit farmer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "pigtails"
+        },
+        {
+            "trait_type": "holding",
+            "value": "apple"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

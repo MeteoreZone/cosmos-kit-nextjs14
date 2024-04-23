@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features chilota hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo937",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "chilota"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "coconut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

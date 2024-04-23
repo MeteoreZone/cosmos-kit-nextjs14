@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features Flamenco Dancer outfit hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9615",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Flamenco Dancer outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "pigtails"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Flamingo"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

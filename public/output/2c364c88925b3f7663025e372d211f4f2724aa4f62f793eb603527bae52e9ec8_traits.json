@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features Flamenco Dancer outfit hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2803",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Flamenco Dancer outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Banana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

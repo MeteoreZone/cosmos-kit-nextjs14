@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is serious, features construction worker outfit hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1487",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "construction worker outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "gold coin bag"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

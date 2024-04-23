@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features Zorro outfit hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5799",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Zorro outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "transformer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

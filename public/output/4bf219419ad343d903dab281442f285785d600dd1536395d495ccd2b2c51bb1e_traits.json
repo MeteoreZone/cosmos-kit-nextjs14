@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features argentinian soccer player hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo749",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "argentinian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "panflute"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

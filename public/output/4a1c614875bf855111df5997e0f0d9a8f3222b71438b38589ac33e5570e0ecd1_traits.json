@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features hoodie hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5115",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "hoodie"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Llama figurine"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features poncho hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7475",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "poncho"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "open passionfruit"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

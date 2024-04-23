@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features chilota hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4037",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "chilota"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "robot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

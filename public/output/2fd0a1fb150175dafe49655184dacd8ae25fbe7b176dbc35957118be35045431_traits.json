@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is smiling, features rainbow t-shirt hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo616",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "rainbow t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "parrot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

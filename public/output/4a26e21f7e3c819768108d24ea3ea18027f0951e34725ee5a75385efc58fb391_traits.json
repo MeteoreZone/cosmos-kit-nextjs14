@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features hoodie hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo995",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "hoodie"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "iguana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

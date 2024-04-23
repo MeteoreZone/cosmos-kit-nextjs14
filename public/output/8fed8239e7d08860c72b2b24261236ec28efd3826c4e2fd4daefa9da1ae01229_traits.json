@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is serious, features Don Quixote outfit hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2215",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Tortilla"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

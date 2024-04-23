@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is serious, features soccer player outfit hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8026",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer player outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "notebook"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

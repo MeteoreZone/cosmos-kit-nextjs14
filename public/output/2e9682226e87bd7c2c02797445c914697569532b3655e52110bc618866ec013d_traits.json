@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features Carmen outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo703",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Carmen outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocconut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

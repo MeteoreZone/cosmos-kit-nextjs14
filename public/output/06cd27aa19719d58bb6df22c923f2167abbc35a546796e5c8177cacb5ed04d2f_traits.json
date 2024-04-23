@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is confident, features cook hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5273",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "cook"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": "toy"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

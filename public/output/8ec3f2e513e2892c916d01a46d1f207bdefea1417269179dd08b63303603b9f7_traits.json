@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features Dia de los Muertos outfit farmer hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9174",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dia de los Muertos outfit farmer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": "steal-pan"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

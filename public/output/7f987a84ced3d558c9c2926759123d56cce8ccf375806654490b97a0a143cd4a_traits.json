@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features Dia de los Muertos outfit farmer hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo62",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dia de los Muertos outfit farmer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "teddybear"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

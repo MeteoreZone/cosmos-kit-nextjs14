@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features soccer referee hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8612",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer referee"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "detailed moai figurine"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is excited, features tango outfit hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9910",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "tango outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "alfajor"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is drunk, features poncho hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo6726",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "poncho"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "mariguana"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

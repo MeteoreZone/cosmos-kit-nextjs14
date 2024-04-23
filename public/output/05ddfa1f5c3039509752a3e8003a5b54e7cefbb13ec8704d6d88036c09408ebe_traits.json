@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features Don Quixote outfit hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9281",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cat pet"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

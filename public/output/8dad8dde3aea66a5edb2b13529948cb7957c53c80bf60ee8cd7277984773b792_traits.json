@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is excited, features Zorro outfit hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7308",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Zorro outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spiky"
+        },
+        {
+            "trait_type": "holding",
+            "value": "urn"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

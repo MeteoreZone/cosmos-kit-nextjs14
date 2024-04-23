@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features mexican outfit hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8541",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mexican outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "shark"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is serious, features argentinian soccer player hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9347",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "argentinian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "broken bottle"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

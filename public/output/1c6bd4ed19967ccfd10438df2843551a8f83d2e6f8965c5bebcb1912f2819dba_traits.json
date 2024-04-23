@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is surprised, features shirtless hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo6018",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "shirtless"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "yoyo"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

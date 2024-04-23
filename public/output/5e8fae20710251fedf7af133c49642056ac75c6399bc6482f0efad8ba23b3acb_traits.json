@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features brazilian outfit hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8207",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "coral"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

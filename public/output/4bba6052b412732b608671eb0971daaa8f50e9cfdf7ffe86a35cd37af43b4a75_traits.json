@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is excited, features Dia de los Muertos outfit farmer hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo99",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Dia de los Muertos outfit farmer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "volcano"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

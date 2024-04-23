@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features juggler outfit hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8276",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "juggler outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": "zombie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

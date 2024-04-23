@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is excited, features Bullfighter outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4084",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Bullfighter outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "peach"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

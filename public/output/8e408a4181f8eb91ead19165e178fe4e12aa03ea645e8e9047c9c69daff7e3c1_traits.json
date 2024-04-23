@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features rainbow t-shirt hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2769",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "rainbow t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "seal"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

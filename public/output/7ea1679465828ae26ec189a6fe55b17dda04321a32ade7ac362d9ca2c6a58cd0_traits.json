@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features huaso clothing hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8528",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huaso clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "mate cup"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

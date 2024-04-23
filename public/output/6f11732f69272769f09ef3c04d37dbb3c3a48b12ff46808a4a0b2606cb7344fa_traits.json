@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features brazilian outfit hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2172",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "snake"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

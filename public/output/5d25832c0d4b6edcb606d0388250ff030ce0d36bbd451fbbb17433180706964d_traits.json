@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features juggler outfit hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo6963",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "juggler outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "zombie"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

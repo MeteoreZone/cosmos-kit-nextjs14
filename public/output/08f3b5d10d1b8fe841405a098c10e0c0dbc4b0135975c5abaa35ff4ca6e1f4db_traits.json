@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is excited, features brazilian soccer player hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2610",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": "panflute"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

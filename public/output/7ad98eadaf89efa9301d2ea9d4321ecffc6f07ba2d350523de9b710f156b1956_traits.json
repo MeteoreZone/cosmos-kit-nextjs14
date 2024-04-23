@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is laughing, features soccer referee hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo6970",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer referee"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": ""
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

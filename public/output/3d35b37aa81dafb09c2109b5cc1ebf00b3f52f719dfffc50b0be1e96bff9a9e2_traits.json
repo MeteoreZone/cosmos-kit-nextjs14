@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is drunk, features Flamenco Dancer outfit hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5810",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Flamenco Dancer outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "coca leafs"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

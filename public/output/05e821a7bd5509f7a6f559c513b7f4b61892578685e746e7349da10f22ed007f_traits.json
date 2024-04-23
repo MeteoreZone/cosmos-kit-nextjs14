@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features chilote clothing hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2596",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "chilote clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "tequeño"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

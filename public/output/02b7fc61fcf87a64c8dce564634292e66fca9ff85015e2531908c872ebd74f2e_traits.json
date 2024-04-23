@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features Don Quixote outfit hair and is holding a crossed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo537",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Don Quixote outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "watermelon"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "crossed eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features indigenous outfit hair and is holding a narrow eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2968",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "indigenous outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "boxing gloves"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "narrow eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is smiling, features singer hair and is holding a round eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4813",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "singer"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "colorful poisonous frog"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "round eyes"
+        }
+    ]
+}

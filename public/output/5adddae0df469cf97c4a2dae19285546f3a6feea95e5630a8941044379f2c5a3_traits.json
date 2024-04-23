@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features indigenous outfit hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7621",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "indigenous outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "top knot"
+        },
+        {
+            "trait_type": "holding",
+            "value": "guaraná"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features mechanic hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9552",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mechanic"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "coffee bean"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

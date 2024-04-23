@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features brazilian outfit hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4490",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "transformer"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

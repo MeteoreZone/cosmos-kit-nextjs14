@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features mexican outfit hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo334",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "mexican outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Pisco bottle"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

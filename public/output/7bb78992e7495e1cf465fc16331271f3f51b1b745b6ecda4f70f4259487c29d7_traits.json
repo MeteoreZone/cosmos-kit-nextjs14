@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is confident, features peruvian outfit hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo22",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "peruvian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocconut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

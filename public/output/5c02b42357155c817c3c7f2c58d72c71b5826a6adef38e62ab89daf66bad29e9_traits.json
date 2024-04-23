@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is confident, features huasa clothing hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo57",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huasa clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "penguin figurine"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is surprised, features brazilian outfit hair and is holding a round eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3482",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "buzz cut"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Maraca"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "round eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is serious, features soccer player outfit hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2206",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "soccer player outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "empanada"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is excited, features chilote clothing hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8972",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "chilote clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "dreadlocks"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chipote chillon"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

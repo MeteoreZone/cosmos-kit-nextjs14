@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is serious, features indigenous outfit hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo103",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "indigenous outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "carrot"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

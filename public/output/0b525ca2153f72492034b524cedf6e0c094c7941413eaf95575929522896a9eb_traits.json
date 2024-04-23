@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is smiling, features Zorro outfit hair and is holding a triangle eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7664",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Zorro outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "lollippop"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "triangle eyes"
+        }
+    ]
+}

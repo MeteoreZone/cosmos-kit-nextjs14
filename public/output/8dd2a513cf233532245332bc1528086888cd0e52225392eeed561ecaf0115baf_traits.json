@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features chilote clothing hair and is holding a closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9206",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "chilote clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Pinata"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "closed eyes"
+        }
+    ]
+}

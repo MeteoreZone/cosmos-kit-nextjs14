@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is smiling, features brazilian soccer player hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo466",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "smiling"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "otter"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

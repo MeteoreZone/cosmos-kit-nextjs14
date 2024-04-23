@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features rainbow t-shirt hair and is holding a dot eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4935",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "rainbow t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "flashlight"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "dot eyes"
+        }
+    ]
+}

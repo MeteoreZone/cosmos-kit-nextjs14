@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is serious, features brazilian soccer player hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo5521",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "serious"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mullet"
+        },
+        {
+            "trait_type": "holding",
+            "value": "grill"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

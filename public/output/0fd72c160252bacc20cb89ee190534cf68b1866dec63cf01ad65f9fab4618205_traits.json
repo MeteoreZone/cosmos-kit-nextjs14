@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features poncho hair and is holding a narrow eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7203",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "poncho"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "unicorn"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "narrow eyes"
+        }
+    ]
+}

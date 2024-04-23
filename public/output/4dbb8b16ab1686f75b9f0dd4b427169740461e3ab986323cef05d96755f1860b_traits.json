@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features peruvian outfit hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9879",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "peruvian outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bangs"
+        },
+        {
+            "trait_type": "holding",
+            "value": "volcano"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

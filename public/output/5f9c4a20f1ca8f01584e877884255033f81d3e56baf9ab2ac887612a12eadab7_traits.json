@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is puzzled, features Zorro outfit hair and is holding a narrow eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1979",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Zorro outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wavy"
+        },
+        {
+            "trait_type": "holding",
+            "value": "grill"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "narrow eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is sleepy, features Bullfighter outfit hair and is holding a bubble eyes",
+    "external_url": "https://ministryof.fun/?ref=primo7928",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Bullfighter outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Cuban Cigar"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "bubble eyes"
+        }
+    ]
+}

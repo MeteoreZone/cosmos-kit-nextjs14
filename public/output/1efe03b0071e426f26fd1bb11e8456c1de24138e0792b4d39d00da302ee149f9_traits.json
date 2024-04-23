@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features construction worker outfit hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo1787",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "construction worker outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "ponytail"
+        },
+        {
+            "trait_type": "holding",
+            "value": "purple beaker"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is confident, features rainbow t-shirt hair and is holding a heart-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo220",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "rainbow t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "coconut"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "heart-shaped eyes"
+        }
+    ]
+}

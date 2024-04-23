@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is confident, features Bullfighter outfit hair and is holding a half-closed eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2668",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "confident"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Bullfighter outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "curly"
+        },
+        {
+            "trait_type": "holding",
+            "value": "chupa chup"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "half-closed eyes"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is drunk, features brazilian soccer player hair and is holding a wide eyes",
+    "external_url": "https://ministryof.fun/?ref=primo2461",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "drunk"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "brazilian soccer player"
+        },
+        {
+            "trait_type": "hair",
+            "value": "mohawk"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cocktail"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "wide eyes"
+        }
+    ]
+}

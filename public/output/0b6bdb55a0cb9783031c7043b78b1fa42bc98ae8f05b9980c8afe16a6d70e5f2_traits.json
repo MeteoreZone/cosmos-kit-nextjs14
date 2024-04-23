@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is excited, features rainbow t-shirt hair and is holding a square eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4925",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "excited"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "rainbow t-shirt"
+        },
+        {
+            "trait_type": "hair",
+            "value": "pigtails"
+        },
+        {
+            "trait_type": "holding",
+            "value": "watermelon"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "square eyes"
+        }
+    ]
+}

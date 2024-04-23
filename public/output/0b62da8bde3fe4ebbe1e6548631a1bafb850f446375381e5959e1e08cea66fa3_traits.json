@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is surprised, features huaso clothing hair and is holding a swirl eyes",
+    "external_url": "https://ministryof.fun/?ref=primo3369",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "surprised"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huaso clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "long"
+        },
+        {
+            "trait_type": "holding",
+            "value": "money bag"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "swirl eyes"
+        }
+    ]
+}

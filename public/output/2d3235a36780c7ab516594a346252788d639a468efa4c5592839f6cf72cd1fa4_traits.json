@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is sleepy, features huaso clothing hair and is holding a star-shaped eyes",
+    "external_url": "https://ministryof.fun/?ref=primo4424",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "sleepy"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "huaso clothing"
+        },
+        {
+            "trait_type": "hair",
+            "value": "braids"
+        },
+        {
+            "trait_type": "holding",
+            "value": "Poncho"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "star-shaped eyes"
+        }
+    ]
+}

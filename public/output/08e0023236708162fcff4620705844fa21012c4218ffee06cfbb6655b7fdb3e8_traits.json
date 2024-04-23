@@ -1,0 +1,31 @@
+{
+    "description": "This male primo nft is laughing, features indigenous outfit hair and is holding a oval eyes",
+    "external_url": "https://ministryof.fun/?ref=primo8521",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "male"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "laughing"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "indigenous outfit"
+        },
+        {
+            "trait_type": "hair",
+            "value": "bald"
+        },
+        {
+            "trait_type": "holding",
+            "value": "penguin figurine"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "oval eyes"
+        }
+    ]
+}

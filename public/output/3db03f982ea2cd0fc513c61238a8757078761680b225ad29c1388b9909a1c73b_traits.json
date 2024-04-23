@@ -1,0 +1,31 @@
+{
+    "description": "This female primo nft is puzzled, features Guayabera hair and is holding a narrow eyes",
+    "external_url": "https://ministryof.fun/?ref=primo9628",
+    "name": "Primos",
+    "attributes": [
+        {
+            "trait_type": "character",
+            "value": "female"
+        },
+        {
+            "trait_type": "emotion",
+            "value": "puzzled"
+        },
+        {
+            "trait_type": "clothing",
+            "value": "Guayabera"
+        },
+        {
+            "trait_type": "hair",
+            "value": "short"
+        },
+        {
+            "trait_type": "holding",
+            "value": "cactus fruit"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "narrow eyes"
+        }
+    ]
+}
